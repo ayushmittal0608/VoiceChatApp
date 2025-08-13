@@ -17,13 +17,15 @@ A simple **voice-based chatbot** that allows users to **ask questions in any lan
 
 2. Frontend Implementation
    ```bash
-   cd voice-chat-app
+   cd frontend
+   nom install
    npm run start
    ```
 
 3. Backend Implementation
     ```bash
     cd backend
+    npm install
     npm start
     ```
 
